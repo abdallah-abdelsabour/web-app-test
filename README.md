@@ -15,6 +15,8 @@
  
  # how to use you can use xmap server to run appliction :
  
+ * create folder called "uploads" 
+ 
  * to be able to get home page you have to signup first
  
  * to make appliction run you have to restore database called dump2.sql using phpmyadmin
